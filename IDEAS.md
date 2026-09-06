@@ -12,6 +12,16 @@ When you have something to save:
 
 ---
 
+## Do this first (priority 1)
+
+**When you resume work, start here. Do this before anything else.**
+
+1. **Owner email after a purchase** — After a user buys anything, send me an email. Subject: a short summary of that user. Body: did they get the email, could they download the `.zip` or `.pdf`, does the email have an attachment, all of that in one place.
+
+   Full notes: [New pages and features](#new-pages-and-features)
+
+---
+
 ## About the website
 
 Fill this in so every idea has context.
@@ -33,7 +43,7 @@ Pages, features, and content already on the site:
 
 Known gaps, pages you still want, or things you keep meaning to add:
 
-- Owner purchase-status email after a sale (see **New pages and features**)
+- **Priority 1:** Owner purchase-status email after a sale (see **Do this first**)
 
 ---
 
@@ -63,7 +73,9 @@ Things the site does not do yet.
 
 <!-- Newest on top -->
 
-- **2026-09-06 — Owner email after a purchase, with a user summary and delivery status**
+- **Priority 1 — 2026-09-06 — Owner email after a purchase, with a user summary and delivery status**
+
+  **Do this first when work resumes.**
 
   Once a user buys anything from the website, I also get a mail. The subject should be a short summary of that user (who they are / what they bought).
 
@@ -112,5 +124,6 @@ Dated notes so you can see how thinking changed.
 
 ### 2026-09-06
 
+- Marked the owner purchase-status email as **priority 1**: when work resumes, do this first.
 - Added feature: after a purchase, send me an email whose subject summarizes the user, and whose body reports whether they got the email, whether they could download the `.zip` or `.pdf`, and whether that email had an attachment.
 - Created this file as the place to push website ideas.
