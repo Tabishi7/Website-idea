@@ -33,7 +33,7 @@ Pages, features, and content already on the site:
 
 Known gaps, pages you still want, or things you keep meaning to add:
 
--
+- Owner purchase-status email after a sale (see **New pages and features**)
 
 ---
 
@@ -63,7 +63,16 @@ Things the site does not do yet.
 
 <!-- Newest on top -->
 
-- 
+- **2026-09-06 — Owner email after a purchase, with a user summary and delivery status**
+
+  Once a user buys anything from the website, I also get a mail. The subject should be a short summary of that user (who they are / what they bought).
+
+  The mail body should tell me:
+
+  - Did the user get the email? (was their purchase / download email delivered)
+  - Was the user able to download the `.zip` file or the `.pdf`?
+  - Does the email contain an attachment?
+  - All of the information above in one place, so I can see the full picture without hunting
 
 ---
 
@@ -103,4 +112,5 @@ Dated notes so you can see how thinking changed.
 
 ### 2026-09-06
 
+- Added feature: after a purchase, send me an email whose subject summarizes the user, and whose body reports whether they got the email, whether they could download the `.zip` or `.pdf`, and whether that email had an attachment.
 - Created this file as the place to push website ideas.
