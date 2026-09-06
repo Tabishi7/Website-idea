@@ -4,7 +4,10 @@ A notebook for every idea about the website: betterment, new pages, promotions, 
 
 The reading file is **[IDEAS.md](IDEAS.md)**. Open it, add a line, commit, and push.
 
-**When you resume work, do [priority 1](IDEAS.md#do-this-first-priority-1) first:** owner email after a purchase (user summary + delivery / download / attachment status).
+**When you resume work, follow [priority order](IDEAS.md#priority-order):**
+
+1. Owner email after a purchase (user summary + delivery / download / attachment status)
+2. Sign-off interview section (around 100 questions)
 
 ## How to add an idea
 
@@ -18,7 +21,7 @@ You do not need a perfect sentence. Date it in **Log** if you want a record of w
 
 | Section | Use it for |
 | --- | --- |
-| Do this first (priority 1) | The next thing to build when work resumes |
+| Priority order | What to build first, then second |
 | About the website | Name, URL, purpose, who it is for |
 | Inbox | Quick dump before you sort |
 | Betterment | Improve what already exists |
