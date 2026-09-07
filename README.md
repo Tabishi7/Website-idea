@@ -6,7 +6,7 @@ The reading file is **[IDEAS.md](IDEAS.md)**. Open it, add a line, commit, and p
 
 **When you resume work, follow [priority order](IDEAS.md#priority-order):**
 
-1. Owner email after a purchase (user summary + delivery / download / attachment status)
+1. Owner email after a purchase (user summary + delivery / download / attachment status) — [detailed prompt](IDEAS.md#priority-1--detailed-prompt-copy-this)
 2. Sign-off interview section (around 100 questions)
 
 ## How to add an idea
@@ -22,6 +22,7 @@ You do not need a perfect sentence. Date it in **Log** if you want a record of w
 | Section | Use it for |
 | --- | --- |
 | Priority order | What to build first, then second |
+| Priority 1 detailed prompt | Copy-paste brief for the owner purchase email |
 | About the website | Name, URL, purpose, who it is for |
 | Inbox | Quick dump before you sort |
 | Betterment | Improve what already exists |
